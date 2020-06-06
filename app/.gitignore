@@ -1,0 +1,9 @@
+.idea/
+.env
+composer.lock
+vendor/
+*.db
+clover.xml
+.php_cs.cache
+builds
+.phpunit.result.cache
